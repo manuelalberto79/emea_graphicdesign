@@ -1,0 +1,138 @@
+body {
+      background:#FFBF00;
+     }
+
+#principal{
+       width: 1000px;
+       height: auto; overflow: hidden;
+       border: 0px solid #000;
+       margin: auto;
+ }
+header{
+       width: 900px;
+       height: 100px;
+       border: 0px solid #000;
+     }
+#logo{
+       width: 200px;
+       height: 100px;
+       border: 0px solid #000;
+       float: left;
+     }
+.menu{
+       width: 555px;
+       height: 45px;
+       border: 1px solid #ccc;
+       float: right;
+       margin-top: 40px;
+       background: black
+     }
+
+.menu ul{}
+
+.menu ul li {
+       list-style: none;
+      float: left;
+     }
+.menu ul li a{
+       text-decoration: none;
+       padding: 10px 15px;
+       border: 0px solid white;
+       color: #fff;
+    }
+.menu ul li a:hover {
+       background: white;
+       color: #82B545;
+       border: 2px solid orange;
+       transition: background 1s, color 1s;
+     }
+#slide{
+       margin-top: 7px;
+       width: 900px;
+       height: 250px;
+     }
+#categorias{
+      width: 900px;
+      height: auto; overflow: hidden;
+      border: 0px solid;
+      margin-top: 90px;
+      color: black;
+     }
+
+.uno{
+      width: 280px;
+      height: 400px;
+      border: 1px solid #ccc;
+      float: left;
+      padding: 7px;
+      text-align: center;
+     }
+
+.parrafo{
+      text-align: justify;
+      color: #505050;
+     }
+.dos{
+      margin-left: 5px;
+      margin-right: 5px;
+     }
+.leer-mas{
+      text-decoration: none;
+      border: 1px solid white;
+      padding: 10px 20px 10px 20px;
+      margin: 10px;
+      padding: 7px;
+     }
+.leer-mas:hover{
+      background: #82B545;
+      color: #fff;
+      transition: background 1s, color 1s;
+     }
+#info{
+      width: 900px;
+      height: auto; overflow: hidden;
+      border: 0px solid #c0c0c0;
+      margin-top: 10px;
+     }
+#izq{
+      width: 590px;
+      height: 480px;
+      border: 1px solid #ccc;
+      float: left;
+      padding: 5px;
+      text-align: center; 
+      color: black;
+     }
+.img{
+    align: center; 
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 25px; 
+    }
+
+#der{
+      width: 280px;
+      height: 480px;
+      border: 1px solid #ccc;
+      float: right;
+      padding: 5px;
+      text-align: center;
+      color: black;
+      }
+.video{
+    align: center; 
+    margin-left: 0px;
+    margin-right: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    }
+
+footer{
+      width: 900px;
+      height: auto; overflow: hidden;
+      text-align: center;
+      }
+#footer p{
+      width: 500px;
+      }

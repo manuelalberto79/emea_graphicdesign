@@ -1,0 +1,94 @@
+<html> 
+    <head>
+     <title> Eme-a Graphic Design</title>
+      <link rel="stylesheet" type="text/css" href="css/estilos.css">
+     
+
+</head> 
+
+<body> 
+ <div id="principal">
+     <header>
+        <div id="logo">
+               <img src="imagenes/logo.png" width="120">
+               <h2> Marketing </h2>  
+               <p>Aprendiendo con un click</p>
+  </div>
+      
+    <nav class="menu">  
+         <ul>
+           <li><a href="https://mail.google.com/mail/u/0/#inbox">Inicio</a> </li> 
+           <li><a href="nosotros.html">Nosotros</a> </li> 
+           <li><a href="">Productos</a> </li> 
+           <li><a href="">Servicios</a> </li> 
+           <li><a href="">Clientes</a> </li> 
+           <li><a href="imagenes/imagen2.jpg">Contacto</a> </li> 
+         </ul>
+      </nav>
+    </header>
+  
+
+    <section id="slide">
+         <img src="imagenes/imagen1.jpg" width="900">
+    </section>
+
+      <section id="categorias">
+           <section class="uno">
+           <img src="imagenes/osos/logotipo.jpg" width="250" height=""> 
+           <h2>Osos Bipolares</h2>
+           <p class="parrafo"> Publicidad e imagen de los Osos Bipolares, equipo de tochito que se formo por docentes de <b>Conalep II de Chihuahua, Chihuahua.</b> </p>
+           <a href="" class="leer-mas">Leer m&aacutes </a><br><br> 
+       </section>
+           
+       <section class="uno dos">
+           <img src="imagenes/night/fusionlogo.jpg" width="270" height=""> 
+           <h2>Night Fusion</h2>
+           <p class="parrafo"> Publicidad e imagen de Night Fusion Empresa de renta de Rockolas. fasfasfasfa sfdasdfas dffasdfasfas dfasdfasdfa sdfasdfasdfasdfasfas</b> </p>
+           <a href="" class="leer-mas">Leer m&aacutes </a><br><br>   
+       </section>
+
+       <section class="uno">
+            <img src="imagenes/invitaciones/gael1.jpg" width="270" height=""> 
+           <h2>Dise&ntildeo de Invitaciones</h2>
+           <p class="parrafo"> Publicidad e imagen de Night Fusion Empresa de renta de Rockolas.</b> </p>
+           <a href="" class="leer-mas">Leer m&aacutes </a><br><br>    
+       </section>
+    </section> <!-- /categorias --> 
+
+
+<section id="info">  
+      
+  <section id="izq">
+         <img src="imagenes/imagen3.jpg" align="left" width="590" class="img"><br/>
+         <h2>Misión.</h2>
+         <p class="parrafo">
+         Eme-a Graphic Design es una empresa que se dedica a identificar y satisfacer las necesidades del cliente asegurando el posicionamiento de la empresa o marca, mediante la implementación 
+         de estrategias creativas, innovadoras y de calidad. Es importante tener un compromiso y una responsabilidad de primera categoría para nuestros clientes. Actualizándonos constantemente 
+         mediante canales y medios a través de las nuevas tecnologías avanzadas. Nuestro objetivo es que el mensaje alcance al target o público meta, con un alto nivel de calidad, eficiencia e impacto 
+         y así contribuir al posicionamiento de las marcas, productos o servicios de nuestros clientes.
+         </p>
+       </section>
+
+  <section id="der">
+         <h3>Video de Curso de Marketing.</h3> 
+         <iframe width="290" height="270" class="video" src="https://www.youtube.com/embed/iHaxFWiW9v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+         </iframe><br>
+         <p><b>Visión.</b></p>
+         <p class="parrafo"> 
+         Es ser líderes en el mercado.  Ofrecer un servicio de excelencia que se distinga por las estrategias innovadoras de marketing y publicidad y darnos a conocer como la mejor empresa
+         en el ramo nacional e internacional.  
+         </p>
+       </section>  
+         </section>  <!-- /info --> 
+<footer>
+        <p> 
+             (c) Todos los derechos reservados - Eme@ Graphic Design 2020. <BR>
+             Diseñado por Manuel Alberto Chavira López <a href="mailto:emea.graphicdesign@gmail.com">Meny </a>
+       </p>
+</footer>
+
+
+
+</div>
+</body> 
+</html>
